@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Health Design</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start">Start</string>
+    <string name="start_two">START</string>
+    <string name="onboard_headline_one">Have a good health</string>
+    <string name="onboard_headline_two">Be stronger</string>
+    <string name="onboard_headline_three">Have nice body</string>
+    <string name="onboard_body_one">Being healthy is all, no health is nothing.So why do not we</string>
+    <string name="onboard_body_two">Take 30 minutes of bodybuilding every day to get physically fit and healthy.</string>
+    <string name="onboard_body_three">Bad body shape, poor sleep, lack of strength, weight gain, weak bones, easily traumatized body, depressed, stressed, poor metabolism, poor resistance.</string>
+    <string name="step_1">Step 1 of 3</string>
+    <string name="step_2">Step 2 of 3</string>
+    <string name="step_3">Step 3 of 3</string>
+    <string name="welcome">Welcome to Capi Fitness Application</string>
+    <string name="welcome_body">Personalized workouts will help you gain strength, get in better shape and embrace a healthy lifestyle</string>
+    <string name="get_started">Get Started</string>
+    <string name="select_fitness_level">Select your fitness level</string>
+    <string name="beginner">Beginner</string>
+    <string name="beginner_text">You are new to fitness training</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="intermediate_text">You have been training regularly</string>
+    <string name="advanced">Advanced</string>
+    <string name="advanced_text">You\'re fit and ready for an intensive workout place</string>
+    <string name="next">Next</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="perosnal_details_text">Let us know about you to speed up the result, Get fit with your personal workout plan!</string>
+    <string name="apple_health">Apple Health</string>
+    <string name="apple_health_text">Allow access to fill my parameters</string>
+    <string name="birthday">Birthday</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="home">Home</string>
+    <string name="training_plan">Training Plan</string>
+    <string name="training_stats">Training States</string>
+    <string name="meal_plan">Meal Plan</string>
+    <string name="schedule">Schedule</string>
+    <string name="running">Running</string>
+    <string name="exercises">Exercises</string>
+    <string name="tips">Tips</string>
+    <string name="settings">Settings</string>
+    <string name="support">Support</string>
+    <string name="profile">Profile</string>
+</resources>
